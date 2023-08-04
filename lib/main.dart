@@ -2,6 +2,7 @@ import 'package:bloc_pattern/src/ui/bloc_display_wideget.dart';
 import 'package:flutter/material.dart';
 
 void main() {
+  print('dddd');
   runApp(const MyApp());
 }
 

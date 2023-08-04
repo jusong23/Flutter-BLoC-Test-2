@@ -27,3 +27,5 @@ class CountBloc {
     _countSubject.close();
   }
 }
+
+// StreamBuilder를 이용한 상태관리
